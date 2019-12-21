@@ -1,0 +1,3 @@
+include ':microservices:product-service'
+include ':microservices:product-review'
+include ':microservices:product-recommendation'
